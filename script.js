@@ -192,6 +192,12 @@ const nameSingle = $(".single-name")
 const photo = $("#img")
 const playList = [
     {
+        src:"./mp3/nholoichameday.mp3",
+        nameSong: "Nhớ Lời Cha Mẹ Dạy Remix ",
+        single: "DJ NONSTOP",
+        img: "https://i.ytimg.com/vi/G6K4T--oAb0/hqdefault.jpg"
+    },
+    {
         src:"./mp3/CuChillThoi.mp3",
         nameSong: "Cứ Chill Thôi ",
         single: "Chillies ft Suni Hạ Linh & Rhymastic",
